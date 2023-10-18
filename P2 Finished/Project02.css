@@ -1,0 +1,105 @@
+body{
+        margin: 0;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table.a { width: 100%; 
+        margin: 0;
+}
+img.b { width: 180px; }
+td.c { font-family: sans-serif;
+       font-size: 27pt;
+       font-style:italic;
+       color: #980974;
+       padding-left: 1ex;
+       width: 100%;
+       text-shadow: 9px 9px 5px#aad7ef;
+       
+}
+table.m {width:100%;
+          border-collapse: collapse;
+          margin: 0;
+        }
+          
+td.m1 {  
+        color: #F2EE83;
+        background-color: #28336b;
+        text-align:center;
+        font-family: sans-serif;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-left: 5px solid #000000;
+        border-right: 5px solid #000000;
+        font-size: 10pt;
+      }
+
+td      {
+        width: 125px;
+        
+        }
+td.m2 { 
+        color: whitesmoke;
+        background-color: #7d83a5;
+        text-align:center;
+        font-family: sans-serif;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-left: 5px solid #000000;
+        border-right: 5px solid #000000;
+        font-size: 10pt;
+       }
+table.s1{
+
+        width: 100%;
+        border: 0;
+}
+h2.h2{
+
+        text-decoration-line: overline;
+        font-size: 15px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+
+
+}
+div.Blue{
+
+        margin-top: 20px;
+        border: 2px dotted rgb(119, 0, 119);
+        font-size: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+
+}
+td.left{
+
+        background-color: purple;
+        width: 40%;
+        padding-left: 15px;
+        padding-right: 15px;
+
+
+
+}
+
+
+
+td.right{
+
+        padding-left: 15px;
+        padding-right: 15px;
+        
+        
+}
+.block {
+        width: 150px;
+        height: 140px;
+        border-radius: 15px;
+        background-color:#ddddff;
+        margin-bottom: 30px;
+        text-align: left;
+        padding: 20px 30px 20px 30px;
+        margin-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: normal;
+    }
